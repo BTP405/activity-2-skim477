@@ -1,3 +1,4 @@
+//seongjun
 def wordCount(t):
     # Initialize a dictionary
     word_dict = {}
